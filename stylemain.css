@@ -1,0 +1,44 @@
+h1, h2{
+text-align: center;
+color: #A65874;
+}
+img {
+    width: 50px;
+	height: 50px;
+    max-width: 100%;
+	height: auto;
+}
+
+.navigateur{
+    color: #FFFFFF;
+    position: sticky;
+    background-color:  #826F85;
+    font-family: "Segoe Print", "Times New Roman", Verdana;
+}
+
+.intro{
+    font-style:normal;
+    margin-left:32px;
+    font-family:"Segoe Print", "Times New Roman", Verdana;
+    padding-left: 48px;
+    background:url("blockquote.png");
+    background-repeat:no-repeat;
+    min-height: 30px;  
+  }
+.carousel{
+    width: auto;
+    height: auto;
+    
+}
+body{
+    background: no-repeat center/300% url("/images/silver.jpg");
+}
+
+.container{
+ margin-left: 15%;
+ margin-right: 15%;
+}
+.ligne1{
+    display: flex;
+    justify-content: center;
+}
