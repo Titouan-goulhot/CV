@@ -1,0 +1,145 @@
+    .navigateurtgb{
+        color: cornsilk;
+        position: sticky;
+        background-color: #826F85;
+        font-family: "Segoe Print", "Times New Roman", Verdana;
+        
+    }
+    .navigateurtgb  .nav-tabs .nav-link .nav-item{
+      color: rgb(0, 0, 0);
+    }
+
+    header{
+      position: sticky;
+      top: 10px;
+    }
+
+    .titre-important{
+    text-align: center;
+    color: rgb(99, 97, 97);
+    font-size: 60px;
+    }
+
+    #bodytgb .intro{
+        font-style:normal;
+        margin-left:32px;
+        font-family:"Segoe Print", "Times New Roman", Verdana;
+        padding-left: 48px;
+        background:url("imagestgb/blockquotetgb.png");
+        background-repeat:no-repeat;
+        min-height: 30px;  
+    }
+
+
+     #bodytgb h1, h2, h3{
+        text-align: center;
+        color: #a65874;
+        font-size: 60px;
+        } 
+
+        .italic{
+            font-style: italic;
+        }
+
+        #bodytgb{
+          background-image: url(imagestgb/silvertgb.jpg);
+          background-size: cover;
+        }
+        
+    
+/*  */
+     #bodytgb .img {
+       position: absolute;
+       left:-4rem;
+      width: 300px;
+      height: 150px;
+      max-width: 100%;
+          
+        }
+      #bodytgb  .photo{
+        
+            max-width: 20%;
+            height: auto;
+            }
+        
+      #bodytgb  .container{
+            margin-left: 15%;
+                margin-right: 15%;
+            }
+
+
+            .carousel{
+                width: auto;
+                height: auto;
+                }
+
+    .ligne1{
+      display: flex;
+      justify-content: center;
+                }
+                
+ #bodytgbp li{
+  font-size: 16px;
+  line-height: 2;
+    letter-spacing: 1px;
+}
+
+#bodytgb  .competences{
+  position: absolute;
+  right: 30px ;
+   background: no-repeat center/100% url("imagestgb/digitaltgb.jpg");
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  border-style: inset;
+  margin-top: 150px;
+  margin-right: -1rem;
+ }
+
+ #bodytgb  .experiences{
+  text-align: left;
+  margin-top: 10px;
+  font-size: larger;
+  }
+                      
+  #bodytgb  .formations{
+  font-size: larger;
+  display: flex;
+  text-align: center;
+  }
+
+#bodytgb ul{
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  }
+
+  #bodytgb  .langues{
+   background-image: url("imagestgb/languetgb.png");
+  text-align: center;
+  font-family: fantasy;
+  width: 400px;
+  height: 300px;
+                        
+                      } 
+
+#bodytgb  .hobbies{
+text-align: center;
+border-style: inset;
+        }
+                      
+#bodytgb  .hobbies_item{
+display: flex;
+justify-content: space-between;
+font-weight: bold;
+}
+
+#conteneur{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  }
+                    
+#bodytgb .formulaire{
+display: flex;
+  justify-content: center;
+                        }
