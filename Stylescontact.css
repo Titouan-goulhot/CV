@@ -1,0 +1,22 @@
+body {
+    background: no-repeat center/200% url("/images/silver.jpg");
+    }
+
+    .navigateur{
+        color: rgb(255, 255, 255);
+        position: sticky;
+        background-color:#826F85;
+        font-family: "Segoe Print", "Times New Roman", Verdana;
+    }
+
+
+    #conteneur{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .formulaire{
+        display: flex;
+        justify-content: center;
+    }

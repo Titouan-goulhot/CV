@@ -1,0 +1,38 @@
+.navigateur{
+  color: cornsilk;
+  position: sticky;
+  background-color: #826F85;
+  font-family: "Segoe Print", "Times New Roman", Verdana;
+}
+.titre-important{
+  text-align: center;
+
+}
+h1{
+    text-align: center;
+    color: #a65874;
+     font-size: 60px;
+}
+
+body{
+  background: no-repeat center/300% url("/images/silver.jpg");
+  margin-left: -5rem;
+}
+
+.img{
+  float: left;
+  display: left;
+    max-width: 100%;
+    height: auto;
+}
+
+.photo{
+    max-width: 20%;
+    height: auto;
+  }
+
+  #container{
+    display: inline-block;
+    float: left;
+    justify-content: space-between;
+  }
